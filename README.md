@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 EditPad Free Installer** — EditPad Pro is a Windows text editor handling files of any size with any encoding. Works without internet access, no account required. Full offline installation.
+**💻 EditPad Free Installer** — EditPad is a feature-rich text editor for Windows from Just Great Software. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About EditPad
 
-EditPad Pro is a Windows text editor handling files of any size with any encoding. It supports tabs, syntax highlighting, powerful regex search, code folding, file comparison, and FTP — all in a lightweight package that opens enormous files without hesitation.
+EditPad is a feature-rich text editor for Windows from Just Great Software. Available in Lite (free) and Pro versions, EditPad supports syntax coloring, multi-file editing with tabs, regular expression search, column editing, and file comparison. The Pro version adds additional features for programmers. EditPad's straightforward approach makes it a reliable alternative to Notepad for everyday text editing.
 
 ---
 
 ## ❌ Problem: EditPad is hard to access
 
-- **Windows Only** — No macOS or Linux version
-- **Paid License** — EditPad Pro requires purchase; EditPad Lite is free but limited
-- **Dated Design** — Interface reflects older Windows application design conventions
-- **Competition** — Notepad++ is free and offers comparable features
+- **Windows Only** — No cross-platform support
+- **Commercial Pro Version** — Full feature set requires paid EditPad Pro license
+- **Ecosystem Size** — Smaller user community than Notepad++ or VS Code
+- **Extension System** — Less extensible than modern code editors
 
 ---
 
@@ -121,7 +121,7 @@ EditPad Pro is a Windows text editor handling files of any size with any encodin
 
 ---
 
-**EditPad Free Installer** — EditPad Pro is a Windows text editor handling files of any size with any encoding. Install without internet connection today!
+**EditPad Free Installer** — EditPad is a feature-rich text editor for Windows from Just Great Software. Install without internet connection today!
 
 <div align="center">
 
